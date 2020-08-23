@@ -32,4 +32,7 @@ Create a resume website with the following characteristics:
 ## FAQ
 
 **How do I know my PR is valid?**
+
 You have to ensure all checks have passed as showed in the image below.
+
+![Checks passed](./imgs/checks-passed.png)
